@@ -32,4 +32,4 @@ just execute aws in your terminal console.
 ### References
 
 * AWS CLI: https://aws.amazon.com/cli/
-* jenv: http://jenv.io
+* jenv: https://github.com/linux-china/jenv
